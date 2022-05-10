@@ -12,6 +12,8 @@ git remote add origin https://github.com/Dmateee/Test.git
 git branch -M main
 git push -u origin main #feltölti az origin nevű távoli repo-ba a commitokat
 
+git pull origin main #origin main lehívása
+
 További terminal parancsok:
 git origin main #a friss repo letöltése 
 gi remote -v    #aktuális távoli repo létrehozása
